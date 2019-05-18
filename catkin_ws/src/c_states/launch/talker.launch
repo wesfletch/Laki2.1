@@ -1,0 +1,5 @@
+<launch>
+
+	<node pkg='c_states' type='talker.cpp' name='talker' output='screen'/>
+
+</launch>	
