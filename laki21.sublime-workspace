@@ -1,0 +1,470 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"is_shutdown"
+			],
+			[
+				"Waypoin",
+				"WaypointClear"
+			],
+			[
+				"F",
+				"FAIL"
+			],
+			[
+				"fb",
+				"fb_write_cell"
+			],
+			[
+				"St",
+				"StateMachine"
+			],
+			[
+				"TAKEOFF",
+				"takeoff"
+			],
+			[
+				"size",
+				"SIZE"
+			],
+			[
+				"resu",
+				"result_denom"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"z",
+				"z"
+			],
+			[
+				"tar",
+				"target_x"
+			],
+			[
+				"ta",
+				"target_y"
+			],
+			[
+				"current",
+				"current_pos"
+			],
+			[
+				"getCu",
+				"getCurrentPosition"
+			],
+			[
+				"preflight",
+				"preflight_state"
+			],
+			[
+				"preflit",
+				"preflight_state"
+			],
+			[
+				"cmd",
+				"cmd_vel"
+			],
+			[
+				"turtl",
+				"turtle1"
+			],
+			[
+				"sie",
+				"sieveOfEratos"
+			],
+			[
+				"sum",
+				"sumOfSquares"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "catkin_ws/src/c_states/src/talker.cpp",
+			"settings":
+			{
+				"buffer_size": 548,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Catkin Builder/Catkin.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Catkin Builder/Catkin.sublime-build",
+					""
+				],
+				[
+					"Packages/Catkin Builder/Catkin.sublime-build",
+					"build dependences"
+				],
+				[
+					"Packages/Catkin Builder/Catkin.sublime-build",
+					"build with debug flag"
+				]
+			],
+			[
+				"Packages/Catkin Builder/Catkin.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Catkin Builder/Catkin.sublime-build",
+					""
+				],
+				[
+					"Packages/Catkin Builder/Catkin.sublime-build",
+					"build dependences"
+				],
+				[
+					"Packages/Catkin Builder/Catkin.sublime-build",
+					"build with debug flag"
+				]
+			],
+			[
+				"Packages/Catkin Builder/Catkin.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"catkin",
+				"Build With: Catkin"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wes/.bashrc",
+		"/home/wes/Laki2.1/catkin_ws/src/c_states/src/main.cpp",
+		"/home/wes/Laki2.1/.gitignore",
+		"/home/wes/Laki2/catkin_ws/src/laki2_states/src/MissionTest.py",
+		"/home/wes/Desktop/what.txt",
+		"/var/log/apt/history.log",
+		"/opt/ros/kinetic/share/mavros/launch/apm_config.yaml",
+		"/home/wes/Laki2/catkin_ws/src/laki2_states/push_mission.py",
+		"/home/wes/Laki2/catkin_ws/src/laki2_sim/sim.sh",
+		"/home/wes/Laki2/catkin_ws/src/laki2_sim/worlds/laki2_ardu.world",
+		"/home/wes/Laki2/catkin_ws/src/laki2_msg/msg/MissionPath.msg",
+		"/home/wes/Laki2/catkin_ws/src/laki2_msg/msg/MissionCoords.msg",
+		"/home/wes/Laki2/catkin_ws/src/laki2_msg/msg/FlightStatus.msg",
+		"/home/wes/Laki2/catkin_ws/src/laki2_msg/msg/Coordinate.msg",
+		"/home/wes/Laki2/catkin_ws/src/laki2_sim/models/apm_iris/model.sdf",
+		"/home/wes/Laki2/onboard_setup.sh",
+		"/home/wes/Laki2/catkin_ws/src/laki2_states/doc/MissionMessage.txt",
+		"/home/wes/Laki2/catkin_ws/src/laki2_sim/launch/apm.launch",
+		"/home/wes/Laki2/catkin_ws/src/laki2_states/src/main.py",
+		"/home/wes/Laki2/catkin_ws/src/laki2_msg/CMakeLists.txt",
+		"/home/wes/Laki2/catkin_ws/src/laki2_states/src/connection.py",
+		"/home/wes/Laki2/catkin_ws/src/laki2_common/laki2_common/__init__.py",
+		"/home/wes/Laki2/catkin_ws/src/laki2_common/laki2_common/gps_converter.py",
+		"/home/wes/Laki2/catkin_ws/src/laki2_common/README.md",
+		"/home/wes/Laki2/catkin_ws/src/laki2_common/setup.py",
+		"/home/wes/Laki2/catkin_ws/src/laki2_msg/MissionPath.msg",
+		"/home/wes/Laki2/README.md",
+		"/home/wes/Laki2/catkin_ws/src/laki2_sim/ArduPilot Setup.txt",
+		"/home/wes/Laki2/catkin_ws/src/laki2_states/src/ardu_flight.py",
+		"/home/wes/Laki2/catkin_ws/src/laki2_states/src/ardu_main.py",
+		"/home/wes/Laki2/catkin_ws/src/laki2_states/src/mission.py",
+		"/home/wes/Laki2/catkin_ws/src/laki2_common/src/__init__.py",
+		"/home/wes/Laki2/catkin_ws/src/laki2_common/gps_converter.py",
+		"/home/wes/Laki2/catkin_ws/src/laki2_common/bounds.py",
+		"/home/wes/learn/datastr/linkedlist/linked_list.java",
+		"/home/wes/learn/datastr/linkedlist/linked_list.jav",
+		"/home/wes/learn/os/bochslog.txt",
+		"/home/wes/learn/os/bochsrc.txt",
+		"/home/wes/learn/os/iso/boot/grub/menu.lst",
+		"/home/wes/learn/os/link.ld",
+		"/home/wes/learn/os/io.h",
+		"/home/wes/learn/os/io.s",
+		"/home/wes/learn/os/kmain.c",
+		"/home/wes/learn/os/Makefile",
+		"/home/wes/learn/os/loader.s",
+		"/home/wes/learn/os/iso/boot/kernel.elf",
+		"/home/wes/learn/os/kernel.elf",
+		"/home/wes/ardupilot/launch/apm.launch",
+		"/home/wes/ardupilot_gazebo/gazebo_models/iris_with_standoffs_demo/model.sdf",
+		"/home/wes/ardupilot_gazebo/gazebo_models/iris_with_standoffs_demo/model.config",
+		"/home/wes/ardupilot_gazebo/gazebo_models/iris_with_standoffs/model.config",
+		"/home/wes/ardupilot_gazebo/gazebo_models/wes_iris/model.config",
+		"/home/wes/ardupilot_gazebo/gazebo_models/iris_with_lidar/model.sdf",
+		"/home/wes/ardupilot_gazebo/gazebo_models/iris_with_standoffs/model.sdf",
+		"/usr/share/gazebo-7/worlds/iris_ardupilot.world",
+		"/opt/ros/kinetic/share/mavros/launch/apm.launch",
+		"/home/wes/gazebo_ws/gazebo_models/iris_with_standoffs/model.config",
+		"/home/wes/gazebo_ws/gazebo_models/iris_with_standoffs/model.sdf",
+		"/home/wes/django-apps/testsite/manage.py",
+		"/home/wes/Laki2/catkin_ws/src/lakitu/script/main.py",
+		"/home/wes/Laki2/catkin_ws/src/laki2_sim/launch/sm.launch",
+		"/home/wes/Laki2/catkin_ws/src/laki2_sim/launch/states.launch",
+		"/home/wes/Laki2/catkin_ws/src/lakitu_sim/CMakeLists.txt",
+		"/home/wes/Laki2/catkin_ws/src/laki2_sm/package.xml",
+		"/home/wes/Laki2/catkin_ws/src/lakitu_sim/launch/sm_lakitu.launch",
+		"/home/wes/Laki2/catkin_ws/src/laki2_states/package.xml",
+		"/home/wes/Laki2/catkin_ws/src/laki2_states/CMakeLists.txt",
+		"/home/wes/Laki2/catkin_ws/src/lakitu/package.xml",
+		"/home/wes/Laki2/catkin_ws/src/laki2_sim/package.xml",
+		"/home/wes/Laki2/catkin_ws/src/lakitu/launch/sm_lakitu.launch",
+		"/home/wes/Laki2/catkin_ws/src/lakitu/script/state_machine.py",
+		"/home/wes/Laki2/catkin_ws/src/lakitu_sim/launch/lakitu_sim.launch",
+		"/home/wes/what.c",
+		"/home/wes/Laki2/catkin_ws/src/lakitu/launch/lakitu.launch",
+		"/home/wes/IARC/catkin_ws/src/lakitu/script/init.py",
+		"/home/wes/IARC/catkin_ws/src/lakitu/script/hover.py",
+		"/home/wes/IARC/catkin_ws/src/lakitu/script/preflight.py",
+		"/home/wes/Laki2/catkin_ws/src/lakitu_sim/launch/basic_sim.launch",
+		"/home/wes/IARC/catkin_ws/src/lakitu_sim/launch/lakitu_sim.launch",
+		"/home/wes/Laki2/catkin_ws/src/lakitu/script/smach.py",
+		"/home/wes/IARC/catkin_ws/src/lakitu/scripts",
+		"/home/wes/IARC/catkin_ws/src/lakitu/launch/lakitu.launch",
+		"/home/wes/IARC/catkin_ws/src/lakitu/models/son_iris/model.sdf",
+		"/home/wes/learn/algo/ch2/merge_sort.c",
+		"/home/wes/Firmware/launch/mavros_posix_sitl.launch",
+		"/home/wes/IARC/catkin_ws/src/lakitu/models/son_iris/.bashrc",
+		"/home/wes/IARC/catkin_ws/src/lakitu/urdf/son_iris.sdf",
+		"/home/wes/.gazebo/models/lakitu/model.sdf",
+		"/home/wes/.gazebo/models/lakitu/model.config",
+		"/home/wes/IARC/catkin_ws/src/lakitu/urdf/lakitu.sdf",
+		"/home/wes/learn/algo/ch1/insertion_sort.c",
+		"/home/wes/learn/learn_C/ch8/interest.c",
+		"/home/wes/learn_C/ch8/interest.c",
+		"/home/wes/learn_C/ch5/date.c",
+		"/home/wes/learn_C/ch6/num_dig.c",
+		"/home/wes/learn_C/ch5/broker.c",
+		"/home/wes/learn_C/ch3/frac.c",
+		"/home/wes/learn_C/ch2/tax.c",
+		"/home/wes/learn_C/ch2/radius.c",
+		"/home/wes/learn_C/ch2/pun.c",
+		"/home/wes/learn_C/ch2/radius",
+		"/home/wes/learn_C/ch2/dweight.c",
+		"/home/wes/IARC/catkin_ws/src/lakitu/script/flight.py",
+		"/home/wes/.i3/config",
+		"/home/wes/IARC/catkin_ws/src/lakitu/script/takeoff.py",
+		"/home/wes/IARC/catkin_ws/src/lakitu/params/ekf2.yaml",
+		"/home/wes/IARC/catkin_ws/src/robot_localization/params/ekf_template.yaml",
+		"/home/wes/IARC/catkin_ws/src/lakitu/script/ekf.py",
+		"/home/wes/IARC/catkin_ws/src/lakitu/launch/ekf.launch",
+		"/home/wes/IARC/catkin_ws/src/lakitu_sim/LAKITU_SIM_STARTUP.txt",
+		"/home/wes/IARC/catkin_ws/src/lakitu/script/flight_test.py",
+		"/home/wes/Desktop/roboboat.launch",
+		"/opt/ros/kinetic/share/turtle_tf2/launch/turtle_tf2_demo.launch",
+		"/home/wes/catkin_ws/src/lakitu/script/preflight.py",
+		"/home/wes/catkin_ws/src/px4/Firmware/launch/posix_sitl_custom.launch",
+		"/home/wes/catkin_ws/src/custom_msgs/CMakeLists.txt",
+		"/home/wes/IARC/catkin_ws/src/Firmware/launch/posix_sitl.launch",
+		"/opt/ros/kinetic/share/mavros/launch/px4.launch",
+		"/home/wes/IARC/catkin_ws/src/Firmware/launch/mavros_posix_sitl.launch",
+		"/home/wes/catkin_ws/src/lakitu/script/state_control.py",
+		"/home/wes/IARC/catkin_ws/src/custom_msgs/msg/StateMachine.msg",
+		"/home/wes/catkin_ws/src/lakitu/script/init.py",
+		"/home/wes/catkin_ws/src/lakitu/script/flight.py",
+		"/home/wes/catkin_ws/src/lakitu/script/hover.py",
+		"/home/wes/IARC/catkin_ws/.gitignore",
+		"/opt/ros/kinetic/share/robot_pose_ekf/robot_pose_ekf.launch",
+		"/home/wes/catkin_ws/src/lakitu/launch/lakitu.launch",
+		"/home/wes/catkin_ws/src/lakitu/script/takeoff.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "catkin_ws/src/c_states/src/talker.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								516,
+								516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laki21.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
